@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  angularicon
 } from "../assets";
 
 export const navLinks = [
@@ -43,15 +44,15 @@ export const navLinks = [
 const services = [
   {
     title: "Angular Developer",
-    icon: web,
+    icon: angularicon,
   },
   {
-    title: "React Developer",
-    icon: mobile,
+    title: "ReactJS Developer",
+    icon: reactjs,
   },
   {
     title: "NodeJS",
-    icon: backend,
+    icon: nodejs,
   },
   {
     title: "GIT",
@@ -104,8 +105,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Angular Developer",
-    company_name: "Random",
+    title: "Software Developer",
+    company_name: "XYZ",
     icon: starbucks,
     iconBg: "#383E56",
     date: "OCT 2017 - Dec 2018",
@@ -117,7 +118,7 @@ const experiences = [
     ],
   },
   {
-    title: "ReactJS Developer",
+    title: "Software Developer",
     company_name: "ABC",
     icon: tesla,
     iconBg: "#E6DEDD",
@@ -130,11 +131,11 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
+    title: "Senior Member Tech Staff",
     company_name: "XYZ",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Sept 2019 - Feb 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -143,11 +144,11 @@ const experiences = [
     ],
   },
   {
-    title: "Senior Software Engineer",
-    company_name: "Meta",
+    title: "Senior Software Engg",
+    company_name: "Eloquent",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Feb 2021 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
