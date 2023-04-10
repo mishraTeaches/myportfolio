@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import morgan from "./company/morgan.png";
-import Techugo from "./company/techugo.jpg";
+import Techugo from "./company/Techugo.jpg";
 import sparxlogo from "./company/sparxlogo.png";
 import nec from "./company/nec.png";
 
