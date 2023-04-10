@@ -15,10 +15,10 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  morgan,
+  sparxlogo,
+  Techugo,
+  nec,
   carrent,
   jobit,
   tripguide,
@@ -38,7 +38,7 @@ export const navLinks = [
   {
     id: "contact",
     title: "Contact",
-  },
+  }
 ];
 
 const services = [
@@ -106,8 +106,8 @@ const technologies = [
 const experiences = [
   {
     title: "Software Developer",
-    company_name: "XYZ",
-    icon: starbucks,
+    company_name: "Sparx It Solution",
+    icon: sparxlogo,
     iconBg: "#383E56",
     date: "OCT 2017 - Dec 2018",
     points: [
@@ -119,12 +119,12 @@ const experiences = [
   },
   {
     title: "Software Developer",
-    company_name: "ABC",
-    icon: tesla,
+    company_name: "Techugo",
+    icon: Techugo,
     iconBg: "#E6DEDD",
     date: "Dec 2018 -  Sept 2019",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using React.js / Angular2+versions and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -132,12 +132,12 @@ const experiences = [
   },
   {
     title: "Senior Member Tech Staff",
-    company_name: "XYZ",
-    icon: shopify,
+    company_name: "NEC INDIA",
+    icon: nec,
     iconBg: "#383E56",
     date: "Sept 2019 - Feb 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using Angular2+Versions / React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -145,12 +145,12 @@ const experiences = [
   },
   {
     title: "Senior Software Engg",
-    company_name: "Eloquent",
-    icon: meta,
+    company_name: "Morgan Stanley",
+    icon: morgan,
     iconBg: "#E6DEDD",
     date: "Feb 2021 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using Angular14 Version and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
